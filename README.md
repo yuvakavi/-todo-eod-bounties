@@ -1,4 +1,4 @@
-# PULSE — Todo-Eod-Bouties
+# PULSE — Todo-Eod-Bounties
 
 ## Overview
 
