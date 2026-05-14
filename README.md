@@ -1,4 +1,4 @@
-# PULSE — AI Workflow Automation Platform
+# PULSE — Todo-Eod-Bouties
 
 ## Overview
 
