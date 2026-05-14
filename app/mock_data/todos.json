@@ -1,0 +1,16 @@
+[
+  {
+    "todo_id": "T-001",
+    "task": "Build Slack Bot",
+    "priority": "HIGH",
+    "status": "completed",
+    "assigned_to": "Arjun"
+  },
+  {
+    "todo_id": "T-002",
+    "task": "Implement AI Extractor",
+    "priority": "MEDIUM",
+    "status": "pending",
+    "assigned_to": "Rahul"
+  }
+]

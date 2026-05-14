@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun",
+    "department": "Backend",
+    "email": "arjun@pulse.ai"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "department": "AI",
+    "email": "rahul@pulse.ai"
+  }
+]

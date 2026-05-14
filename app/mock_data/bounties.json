@@ -1,0 +1,12 @@
+[
+  {
+    "employee_name": "Arjun",
+    "points": 10,
+    "reason": "EOD Submission"
+  },
+  {
+    "employee_name": "Rahul",
+    "points": 20,
+    "reason": "Completed High Priority Task"
+  }
+]
