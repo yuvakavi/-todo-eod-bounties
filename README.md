@@ -256,12 +256,3 @@ python -m app.scheduler.scheduler
 
 ---
 
-## License
-
-[Add your license information here]
-
----
-
-## Support
-
-For issues or questions, please open an issue on the repository.
